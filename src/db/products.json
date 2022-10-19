@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Café Oaxaca Pluma Hidalgo",
+    "description": "Black Honey: El Café de Doodle Café es 100% mexicano, aliado con productores en toda la república con un comercio justo, para llevarte hasta tu casa, los mejores sabores y aromas en café de especialidad.",
+    "imgage": "https://res.cloudinary.com/dgvdlmprt/image/upload/v1665600148/products-doodle/doodle_green_kersxq.png",
+    "price": 249
+  },
+  {
+    "name": "Café Veracruz Totutla",
+    "description": "Sarchimor Limani Lavado: El Café de Veracruz es uno de los más consumidos a nivel nacional y esto no es sólo por suerte, es por lo especial del territorio que produce los mejores granos en México para que lleguen a tu taza humeante todos los días.",
+    "imgage": "https://res.cloudinary.com/dgvdlmprt/image/upload/v1665600148/products-doodle/doodle_black_bimns6.png",
+    "price": 199
+  },
+  {
+    "name": "Café Chiapas",
+    "description": "Black Honey: El café Chiapas proviene de la región montañosa del estado, una de las zonas donde se produce café arábica de gran calidad.",
+    "imgage": "https://res.cloudinary.com/dgvdlmprt/image/upload/v1665600148/products-doodle/doodle_purple_mykbk4.png",
+    "price": 249
+  }
+]
